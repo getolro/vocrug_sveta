@@ -3,7 +3,7 @@
     height: 80vh;
     width: 100%;
     flex-wrap: wrap;
-    background-color: blue;
+    background-color: #FFB07C;
 }
 
 h1 {
@@ -37,3 +37,4 @@ div {
     background-color: lightgray;
 
 }
+
