@@ -3,6 +3,7 @@
     height: 80vh;
     width: 100%;
     flex-wrap: wrap;
+    background-color: blue;
 }
 
 h1 {
@@ -34,4 +35,5 @@ div {
 
 .hover {
     background-color: lightgray;
+
 }
